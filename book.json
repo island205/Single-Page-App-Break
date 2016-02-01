@@ -1,0 +1,10 @@
+{
+  "gitbook": "2.x.x",
+  "plugins": ["mermaid", "duoshuo"],
+  "pluginsConfig": {
+    "duoshuo": {
+      "short_name": "fronteer",
+      "theme": "default"
+    }
+  }
+}

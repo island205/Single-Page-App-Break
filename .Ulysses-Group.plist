@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>_book</string>
+		<string>images</string>
+		<string>node_modules</string>
+	</array>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>README.md</string>
+		</array>
+		<array>
+			<string>SUMMARY.md</string>
+		</array>
+		<array>
+			<string>前言.md</string>
+		</array>
+		<array>
+			<string>第10章 基于 Webpack 的开发与构建.md</string>
+		</array>
+		<array>
+			<string>第11章 编写测试.md</string>
+		</array>
+		<array>
+			<string>第12章 模型设计与 API 开发.md</string>
+		</array>
+		<array>
+			<string>第13章 路由设计.md</string>
+		</array>
+		<array>
+			<string>第14章 界面组件开发.md</string>
+		</array>
+		<array>
+			<string>第1章 何为单页应用.md</string>
+		</array>
+		<array>
+			<string>第1部分 单页应用开发基础.md</string>
+		</array>
+		<array>
+			<string>第2章 用户界面的核心——组件.md</string>
+		</array>
+		<array>
+			<string>第2部分 单页应用实战.md</string>
+		</array>
+		<array>
+			<string>第3章 组件的复合.md</string>
+		</array>
+		<array>
+			<string>第3部分 单页应用实战.md</string>
+		</array>
+		<array>
+			<string>第4章 应用控制中心-路由.md</string>
+		</array>
+		<array>
+			<string>第4部分 结语.md</string>
+		</array>
+		<array>
+			<string>第5章 嵌套路由.md</string>
+		</array>
+		<array>
+			<string>第6章 与服务端通信.md</string>
+		</array>
+		<array>
+			<string>第7章 JavaScript 模块化.md</string>
+		</array>
+		<array>
+			<string>第8章 Less、Sass 与 PostCSS.md</string>
+		</array>
+		<array>
+			<string>第9章 基于 Gulp 的开发与构建.md</string>
+		</array>
+	</array>
+</dict>
+</plist>
