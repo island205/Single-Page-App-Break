@@ -16,7 +16,7 @@
 			<string>README.md</string>
 		</array>
 		<array>
-			<string>SUMMARY.md</string>
+			<string>Summary.md</string>
 		</array>
 		<array>
 			<string>前言.md</string>
@@ -46,7 +46,7 @@
 			<string>第2章 用户界面的核心——组件.md</string>
 		</array>
 		<array>
-			<string>第2部分 单页应用实战.md</string>
+			<string>第2部分 单页应用架构模式.md</string>
 		</array>
 		<array>
 			<string>第3章 组件的复合.md</string>

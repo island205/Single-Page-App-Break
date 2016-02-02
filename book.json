@@ -5,6 +5,9 @@
     "duoshuo": {
       "short_name": "fronteer",
       "theme": "default"
+    },
+    "fontSettings": {
+      "family": "sans"
     }
   }
 }
