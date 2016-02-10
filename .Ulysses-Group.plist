@@ -40,7 +40,7 @@
 			<string>第1章 何为单页应用.md</string>
 		</array>
 		<array>
-			<string>第1部分 单页应用开发基础.md</string>
+			<string>第01章 何为单页应用.md</string>
 		</array>
 		<array>
 			<string>第2章 用户界面的核心——组件.md</string>
@@ -74,6 +74,36 @@
 		</array>
 		<array>
 			<string>第9章 基于 Gulp 的开发与构建.md</string>
+		</array>
+		<array>
+			<string>SUMMARY.md</string>
+		</array>
+		<array>
+			<string>第02章 用户界面的核心——组件.md</string>
+		</array>
+		<array>
+			<string>第03章 组件的复合.md</string>
+		</array>
+		<array>
+			<string>第04章 应用控制中心-路由.md</string>
+		</array>
+		<array>
+			<string>第05章 嵌套路由.md</string>
+		</array>
+		<array>
+			<string>第06章 与服务端通信.md</string>
+		</array>
+		<array>
+			<string>第07章 JavaScript 模块化.md</string>
+		</array>
+		<array>
+			<string>第08章 Less、Sass 与 PostCSS.md</string>
+		</array>
+		<array>
+			<string>第09章 基于 Gulp 的开发与构建.md</string>
+		</array>
+		<array>
+			<string>第14章 结语.md</string>
 		</array>
 	</array>
 </dict>
