@@ -1,0 +1,27 @@
+{
+  "name": "single-page-app-break",
+  "version": "0.0.1",
+  "description": "当我谈单页应用我谈些什么？",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/island205/Single-Page-App-Break.git"
+  },
+  "keywords": [
+    "SPA",
+    "Backbone",
+    "Angular",
+    "React"
+  ],
+  "author": "island205@gmail.com",
+  "license": "SEE LICENSE IN README.md",
+  "bugs": {
+    "url": "https://github.com/island205/Single-Page-App-Break/issues"
+  },
+  "homepage": "https://github.com/island205/Single-Page-App-Break#readme",
+  "devDependencies": {
+    "gitbook-plugin-duoshuo": "https://registry.npm.taobao.org/gitbook-plugin-duoshuo/download/gitbook-plugin-duoshuo-1.6.3.tgz",
+    "gitbook-plugin-editlink": "^1.0.2",
+    "gitbook-plugin-prism": "^1.0.0"
+  }
+}
